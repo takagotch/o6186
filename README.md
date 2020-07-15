@@ -1,4 +1,4 @@
-### https://github.com/takagotch/page328
+### https://takagotch.github.io/page328/
 ---
 ### https://github.com/takagotch/page279
 
